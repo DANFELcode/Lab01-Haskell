@@ -1,0 +1,14 @@
+¿Cuál fue el tiempo total invertido en el laboratorio por cada uno de ustedes? (Horas/Hombre)
+Inverti 3 horas al laboratorio
+
+¿Cuál es el estado actual del laboratorio? ¿Por qué?
+Totalmente terminado, aunque al principio no entendia bien la sintaxis de guardas de haskel y de algunas funciones invertigue y pude resolver los ejercicios con facilidad
+
+¿Cuál consideran fue el mayor logro? ¿Por qué?
+El poder comprender a profundidad el como funciona el lenguaje haskell en cuanto a evaluación de funciones 
+
+¿Cuál consideran que fue el mayor problema técnico? ¿Qué hicieron para resolverlo?
+El resscribir las funciones usando lambda, investigue sobre la sintaxis correcta para implementar lambda en haskell
+
+¿Qué referencias usaron? ¿Cuál fue la más útil? Incluyan citas con estándares adecuados.
+http://claude.com
